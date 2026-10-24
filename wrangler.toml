@@ -1,0 +1,7 @@
+name = "jarvis-cloud-brain"
+main = "src/index.js"
+compatibility_date = "2026-10-24"
+
+# Set secrets with:
+# npx wrangler secret put HF_TOKEN
+# npx wrangler secret put JARVIS_CLIENT_KEY
